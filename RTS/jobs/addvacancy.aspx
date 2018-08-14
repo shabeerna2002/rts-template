@@ -215,7 +215,7 @@
                         
 
            <div class="row">
-                <a class="waves-effect waves-light green btn"><i class="material-icons right">save</i>Create Vacancy</a>
+                <a class="waves-effect waves-light green btn"><i class="material-icons right">done</i>Create Vacancy</a>
             <a class="waves-effect waves-light red btn"><i class="material-icons right">delete</i>Reset</a>
 
            </div>
