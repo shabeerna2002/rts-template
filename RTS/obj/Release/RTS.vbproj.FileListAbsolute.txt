@@ -1,0 +1,13 @@
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\RTS.dll.config
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\RTS.dll
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\RTS.pdb
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\RTS.xml
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.Resources.resources
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.vbproj.GenerateResource.Cache
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.vbproj.CoreCompileInputs.cache
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.dll
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.xml
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.pdb
+D:\shurooq-websites\recruitment-management\aspx\RTS\RTS\obj\Release\RTS.vbprojResolveAssemblyReference.cache
